@@ -319,4 +319,8 @@ table tfoot tr td {
   form .bloco-inputs>div:nth-child(2n) {
     margin-left: 0;
   }
+
+  .shadow-table {
+    overflow-x: auto;
+  }
 }
