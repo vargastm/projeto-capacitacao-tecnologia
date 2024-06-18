@@ -44,3 +44,11 @@ h2 {
   text-align: center;
   text-decoration: none;
 }
+
+@media (max-width: 767px) {
+  .dash-index {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+}
