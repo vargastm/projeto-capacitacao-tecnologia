@@ -1,0 +1,46 @@
+.blc {
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  padding: 20px;
+  width: 100%;
+  max-width: 300px;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.dash-index {
+  display: flex;
+  padding: 50px 0;
+  justify-content: space-between;
+}
+
+.blc span {
+  font-size: 50px;
+  display: block;
+}
+
+.blc img {
+  width: 100px;
+}
+
+.bt-index {
+  display: block;
+  border-radius: 4px;
+  background-color: #141414;
+  color: #FFFFFF;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  max-width: 336px;
+  margin-top: 26px;
+  text-align: center;
+  text-decoration: none;
+}

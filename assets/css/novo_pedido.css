@@ -1,0 +1,46 @@
+.page-novo-pedido table tbody tr td {
+    height: 70px;
+}
+
+.page-novo-pedido table tbody tr td:last-child {
+    width: 54px;
+}
+
+.page-novo-pedido table tbody input {
+    margin: 0;
+}
+
+.page-novo-pedido table tfoot tr td .d-flex {
+    height: 76px;
+}
+
+.page-novo-pedido .shadow-table {
+    margin-bottom: 42px;
+    margin-top: 7px;
+}
+
+.blc-subtotal span {
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+
+
+.blc-subtotal input {
+    max-width: 100px;
+    margin: 0;
+    padding: 0 23px;
+    text-align: right;
+}
+
+.blc-subtotal input:disabled {
+    background: #EBEBEB;
+}
+
+a.bt-add-produto {
+    color: #3D3935;
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    gap: 15px;
+}
